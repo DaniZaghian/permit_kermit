@@ -1,0 +1,2 @@
+module KermitHelper
+end
